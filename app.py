@@ -40,7 +40,4 @@ def predict():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
-
-
-# https://www.youtube.com/watch?v=iRCaMnR_bpA
+    app.run(debug=False, host='0.0.0.0')
