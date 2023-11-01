@@ -1,9 +1,10 @@
-# Movie_Recommendation_System
+# Car Price Prediction System
 The Car Price Prediction System is a web application designed to predict the price of cars based on various features and characteristics. It utilizes machine learning techniques to make accurate predictions and provides users with an estimated price range for a given set of car attributes.
 
 
 ## Demo
 
+https://github.com/Shubham-Kumar-Singh-03/Car-Price-Prediction-System/assets/87908011/46646ad4-9f60-4a8d-95de-8e6ee1191b3b
 
 ## Overview
 
